@@ -15,7 +15,7 @@ Perseverance gives me the opportunity to achieve any set goals. I strive to get 
 Ability to see the whole situation, assertiveness, stress tolerance, communication skills, perseverance, adaptability, competitiveness, creative thinking, strategic skills, problem solving and troubleshooting, emotional flexibility, ability to work in a team, mentoring, enthusiasm. Professional skills in working with HTML, CSS, and JavaScript at the initial stage. I use VSCode for coding and Figma for working with layouts. I also good at using Adobe Illustrator and Photoshop. To work in the field of petrography, I use Fiji – ImageJ.
 
 **Examples of my work:**
-https://github.com/FedotovaLolita – GitHub.
+* https://github.com/FedotovaLolita – GitHub.
 
 **Work experience:**
 My programming experience first appeared in courses at RS School.
